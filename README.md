@@ -1,1 +1,1 @@
-Delving into the Q: at which layer should we apply steering, and why?
+This repo contains the code for delving into the question: **at which layer should we apply steering with SAEs, and why?**
